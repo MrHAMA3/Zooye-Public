@@ -1,5 +1,5 @@
 {
-    "token": "NjkxMDA4MDQ2NTU3NjkxOTk0.XnZtZA.kAvpGnzSke8SJ03-Z9CaCGaOknE",
-    "prefix": "Z",
-    "mongo": "mongodb+srv://hama:mrhama@zooye.nbysk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "token": "MTA5NTg3ODYxNDYxNDAxNjA3MA.GcZc4p.OzhQDi_-Q7vbVPa-WK3U4Iogq2oeS9aIJBLHcE",
+    "prefix": "*",
+    "mongo": "mongodb+srv://mmnniinn12:<password>@cluster0.8phf8td.mongodb.net/"
 }
